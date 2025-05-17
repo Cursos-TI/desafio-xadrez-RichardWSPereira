@@ -95,6 +95,13 @@ int main() {
      o loop será encerrado
     */
 
+    // Nível Mestre - Funções Recursivas e Loops Aninhados
+    // Sugestão: Substitua as movimentações das peças por funções recursivas.
+    // Exemplo: Crie uma função recursiva para o movimento do Bispo.
+
+    // Sugestão: Implemente a movimentação do Cavalo utilizando loops com variáveis múltiplas e condições avançadas.
+    // Inclua o uso de continue e break dentro dos loops.
+
     for (int cavalo = 2, cavalo2 = 0; cavalo > 0; cavalo--) {
         if (cavalo == 1) break;
         do {
@@ -108,12 +115,9 @@ int main() {
 
    
 
-    // Nível Mestre - Funções Recursivas e Loops Aninhados
-    // Sugestão: Substitua as movimentações das peças por funções recursivas.
-    // Exemplo: Crie uma função recursiva para o movimento do Bispo.
+    
 
-    // Sugestão: Implemente a movimentação do Cavalo utilizando loops com variáveis múltiplas e condições avançadas.
-    // Inclua o uso de continue e break dentro dos loops.
+    
 
     return 0;
 }
